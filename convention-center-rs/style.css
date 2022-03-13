@@ -1,0 +1,82 @@
+@media only screen and (min-width: 600px) {
+body{
+ 
+}
+/*navbar*/
+.navbar a{
+    font-size: 22px;
+    color:#3E3E3E;
+}
+/*slider*/
+.carousel-caption{
+padding-left: 219px;
+padding-right: 219px;
+padding-bottom: 40px;
+}
+.carousel-caption p{
+    padding: 0px 65px;
+ }
+ /*card*/
+ .card-title{
+     color: #231D4F ;
+ }
+
+ .hot-card{
+     border-radius: 26px;
+ }
+ 
+ .btn-lg{
+     border-radius: 26px;
+ }
+ .apple_store_icon{
+     float: right;
+
+ }
+ /*footer*/
+ footer{
+    background-color: #0B0D17;
+    height: 100%;
+}
+footer img{
+    width: 165px;
+}
+}
+@media only screen and (max-width: 600px) {
+    body{
+     
+    }
+    /*navbar*/
+    .navbar a{
+        font-size: 22px;
+        color:#3E3E3E;
+    }
+    /*slider*/
+    .carousel-caption{
+    padding-left: 219px;
+    padding-right: 219px;
+    padding-bottom: 40px;
+    }
+    .carousel-caption p{
+        padding: 0px 65px;
+     }
+     /*card*/
+     .card-title{
+         color: #231D4F ;
+     }
+    
+     .hot-card{
+         border-radius: 26px;
+     }
+    
+     .btn-lg{
+         border-radius: 26px;
+     }
+      /*footer*/
+     footer{
+        background-color: #0B0D17;
+        height: 100%;
+    }
+    footer img{
+        width: 165px;
+    }
+    }
